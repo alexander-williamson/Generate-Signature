@@ -1,7 +1,8 @@
 Generate-Signature
 ==================
 
-Generate a Microsoft Outlook Signature via Powershell and a HTML Template
+Generate a Microsoft Outlook Signature via Powershell and a HTML Template from Active Directory results for the current user.
+Run this every login to ensure up to date signatures.
 
 Instructions
 ============
