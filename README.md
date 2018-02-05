@@ -7,9 +7,10 @@ Run this every login to ensure up to date signatures.
 Instructions
 ============
 
-1.	Modify the Template.html
+1.	Modify the Template.htm
 2.	Modify the Generate-Signature.ps1 file as required
-2.	Run the Generate-Signature.ps1 (right click > Run in Powershell)
+3.	Run the Generate-Signature.ps1 (right click > Run in Powershell) and test result
+4.  Add to GPO for all users
 
 Background
 ==========
