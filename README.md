@@ -14,4 +14,5 @@ Instructions
 Background
 ==========
 
-Based off a SpiceWorks script which can be found here: [http://community.spiceworks.com/scripts/show/1350-add-outlook-signature-powershell-without-microsoft-word]
+Based off a SpiceWorks script which can be found here: 
+- [Add Outlook Signature - Powershell without Microsoft Word](http://community.spiceworks.com/scripts/show/1350-add-outlook-signature-powershell-without-microsoft-word)
